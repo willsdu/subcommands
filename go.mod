@@ -1,1 +1,1 @@
-module github.com/google/subcommands
+module github.com/willsdu/subcommands
